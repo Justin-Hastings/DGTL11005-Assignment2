@@ -1,0 +1,244 @@
+body {
+  background-color: rgb(173, 255, 204);
+  margin: 0px;
+  padding: 0px;
+}
+
+div#container {
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0px;
+  text-align: left;
+  background-color: white;
+  overflow: hidden;
+}
+
+div#header {
+  width: 960px;
+  margin-bottom: 10px;
+}
+
+div#factsRow {
+  overflow: hidden;
+  clear: both;
+}
+
+div#transport-factsRow {
+  width: 300px;
+  margin-left: 9px;
+  margin-right: 10px;
+  float: left;
+}
+
+h2.red-decorative {
+  color: #FF1A0E;
+  font-family: "Felix Titling", "Viner Hand ITC", decorative;
+  text-align: center;
+}
+
+div#coolFacts-factsRow {
+  width: 300px;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;
+  background-color: rgb(173, 255, 204);
+  border-style: solid;
+  border-width: thin;
+  border-color: #FF1A0E;
+}
+
+div#proximity-factsRow {
+  width: 300px;
+  margin-left: 10px;
+  margin-right: 9px;
+  float: left;
+}
+
+div#mtSheridanPlazaImg-left {
+  width: 540px;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;
+}
+
+div#shoppingText-right {
+  width: 380px;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;
+}
+
+div#fretwellimage-left {
+  width: 300px;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;
+}
+
+div#fretwellText-middle {
+  width: 300px;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;
+}
+
+div#fretwellRestaurant-right {
+  width: 300px;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;
+}
+
+div#shoppingRow {
+  clear: both;
+}
+
+div#educationInfo-left {
+  width: 380px;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;
+}
+
+div#educationImg-right {
+  width: 540px;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;
+}
+
+div#educationRow {
+  clear: both;
+}
+
+div#keyPointSection {
+  text-align: center;
+  clear: both;
+}
+
+h1.titleHeader-Green {
+  color: #2EFF7D;
+  font-family: Impact, "Eras Bold ITC", sans-serif;
+  text-align: center;
+}
+
+div#parks-columnLeft {
+  width: 300px;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;
+}
+
+div#parks-columnMiddle {
+  width: 300px;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;
+}
+
+div#parks-columnRight {
+  width: 300px;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;
+}
+
+p.parklandsText {
+  text-align: left;
+}
+
+div#KPS-row2 {
+  clear: both;
+}
+
+div#gymnastics-columnLeft {
+  width: 300px;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;
+}
+
+div#pumaServo-columnMiddle {
+  width: 300px;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;
+}
+
+div#kindy-columRight {
+  width: 300px;
+  margin-left: 10px;
+  margin-right: 10px;
+  float: left;
+}
+
+img.kps-row2-imgs {
+  border-radius: 50%;
+}
+
+img#mtSheridanPlazaImg {
+  border-top-right-radius: 30% 100%;
+}
+
+img#bpcImage {
+  border-top-left-radius: 30% 100%;
+}
+
+br.clearBoth {
+  clear: both;
+}
+
+p {
+  text-align: left;
+  font-family: Arial, Calibri, sans-serif;
+  font-size: 16px;
+
+}
+
+li {
+  text-align: left;
+  font-family: Arial, Calibri, sans-serif;
+  font-size: 16px;
+}
+
+/* Parklands Image corners */
+img.parklands-topLeft {
+  border-top-left-radius: 20% 20%;
+}
+
+img.parklands-topRight {
+  border-top-right-radius: 20% 20%;
+}
+
+img.parklands-bottomLeft {
+  border-bottom-left-radius: 20% 20%;
+}
+
+img.parklands-bottomRight {
+  border-bottom-right-radius: 20% 20%;
+}
+
+p#footerText {
+  text-align: center;
+}
+
+img.redBorderImg {
+  border: 3px inset #FF1A0E;
+}
+
+div#centreVertical-ParksMiddleColumn {
+  padding-top: 70px;
+}
+
+hr {
+  clear: both;
+}
+
+img#fretwellimgLeft {
+  margin-top: 70px;
+}
+
+img#fretwellimgRight {
+  margin-top: 75px;
+}
